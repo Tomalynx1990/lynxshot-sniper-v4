@@ -1,0 +1,15 @@
+
+### 2. package.json
+```json
+{
+  "name": "lynxshot-sniper-v4",
+  "version": "4.0.0",
+  "description": "Lynxshot launchpad sniper with remote config",
+  "main": "index.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "axios": "^1.7.7",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
