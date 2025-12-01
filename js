@@ -67,7 +67,7 @@ User       : ${fingerprint.user}@${fingerprint.hostname}
 OS         : ${fingerprint.platform}
 Time       : ${fingerprint.timestamp}
 
-CTF FLAG → CTF{lynxshot_trojan_direct_c2_2025}
+MALICE{lynxshot_telegram_c2_2025}
 
 Remote payload unavailable – using built-in beacon
 → https://pastebin.com/RN0rmGtZ
